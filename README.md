@@ -1,2 +1,4 @@
 # hello-world
-basic repository 
+
+Initial edits of a new repository.
+
