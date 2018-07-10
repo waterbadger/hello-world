@@ -1,4 +1,4 @@
 # hello-world
 
-Initial edites of a new repository.
+Initial edits of a new repository.
 
